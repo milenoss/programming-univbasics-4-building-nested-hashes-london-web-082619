@@ -40,7 +40,7 @@ def monopoly_with_third_tier
 
 
 def monopoly_with_fourth_tier
- binding.pry
+
    hash = {
     railroads:{
        pieces:4,
@@ -65,7 +65,7 @@ def monopoly_with_fourth_tier
         
     }
    }
-        
+       binding.pry  
      
      end
 
